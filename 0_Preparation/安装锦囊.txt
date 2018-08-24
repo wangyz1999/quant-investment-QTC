@@ -1,0 +1,12 @@
+﻿°²×°ÊÓÆµÁ´½Ó£ºhttp://study.163.com/course/courseMain.htm?courseId=1005280044&share=2&shareId=400000000478026
+ÎÄµµÍøÕ¾£ºwww.fxdayu.com
+
+±¨´íÇë×¢Òâ°æ±¾£º
+´ò¿ªterminalÖÕ¶Ë£¬ÊäÈëpip show bcolz£¨±¨´íµÄPackageÃû³Æ£©¼ì²é°æ±¾
+bcol == 1.1.2 ÐèÒªÓÃwheel °²×°
+pip install Ö±½ÓÀ­bcolz-1.1.2-cp36-cp36m-win_amd64.whl½øÈ¥
+pip install rqalpha == 3.0.9
+pip alphalens == 0.1.2
+
+°²×°±¨´í×ÉÑ¯£º
+Î¢ÐÅÈºÓë´óÓãÉçÇø£ºhttp://bbs.fxdayu.com/
